@@ -20,6 +20,9 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react-query": "^3.39.2",
+    "styled-components": "^5.3.6"
+  },
   "packageManager": "yarn@1.22.19"
 }
